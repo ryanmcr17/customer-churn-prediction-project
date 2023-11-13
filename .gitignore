@@ -1,0 +1,4 @@
+# Adding unnecessary files to keep a clean repo
+*.ipynb_checkpoints
+*.DS_Store
+__pycache__
